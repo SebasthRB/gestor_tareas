@@ -9,7 +9,7 @@ gestión del código.
 ## Instalación
 ### Clona este repositorio:
 ```
-git clone https://github.com/dgamarra/GestorTareas.git
+git clone https://github.com/SebasthRB/gestor_tareas.git
 ```
 ### Estructura del proyecto
 ```
