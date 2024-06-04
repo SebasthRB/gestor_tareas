@@ -21,3 +21,4 @@ class GestorTareas:
         self.tareas[indice].completada = True
         else:
         raise IndexError("Índice fuera de rango")
+
